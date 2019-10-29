@@ -16,6 +16,7 @@
     text-align: center;
     padding: 30px 35px;
     text-decoration: none;
+    box-shadow: 0 20px 25px 0 black;
   }
   
   /* Add a red background color to navbar links on hover */
